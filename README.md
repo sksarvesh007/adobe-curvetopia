@@ -14,7 +14,7 @@ This project is a Streamlit application that allows you to upload a CSV file con
 
    ```bash
    git clone https://github.com/your-username/image-shape-classifier.git
-   cd ADOBE-CURVETOPIA
+   cd adobe-curvetopia
    ```
 
 
@@ -48,5 +48,5 @@ REPLICATE_API_TOKEN = "your_api_key"
 * The saved images are then classified using the Replicate API, and the results are displayed on the Streamlit interface.
 
   TEAM NAME : Lemon
-  Team Members : Parth Singh
+  Team Members : Parth Singh,
                  Sarvesh Khodwe
