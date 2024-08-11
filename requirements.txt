@@ -1,0 +1,9 @@
+streamlit
+replicate
+python-dotenv
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+scipy
