@@ -46,3 +46,7 @@ REPLICATE_API_TOKEN = "your_api_key"
 ### Shape Classification:
 
 * The saved images are then classified using the Replicate API, and the results are displayed on the Streamlit interface.
+
+  TEAM NAME : Lemon
+  Team Members : Parth Singh
+                 Sarvesh Khodwe
